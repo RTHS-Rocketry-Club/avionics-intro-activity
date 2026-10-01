@@ -23,4 +23,3 @@ It should say that they requested for you to make a review, click on the yellow 
 Once your partner approves your code, go to the code tab. You should see the text file you made at the beginning in the repository, with the text "hello world" inside.
 
 This mirrors the workflow for git. when you have a change, make the change, create a pull request, get someone to review your change, and then it will be committed to the main repo!
-Go to the pull requests tab, find your commit, and click
