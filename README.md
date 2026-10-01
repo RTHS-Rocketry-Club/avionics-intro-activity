@@ -11,4 +11,4 @@ Take your text file from earlier, and upload it to the repo, then commit the cha
 
 Once you're done, find another person who did the work, lets get our commits approved!
 
-Go to the pull requests tab, and find your partner's commit.
+Go to the pull requests tab, find your commit, and click
